@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on September</title>
+    <link>https://september1549.github.io/tags/</link>
+    <description>Recent content in Tags on September</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 30 Mar 2024 21:35:48 +0800</lastBuildDate>
+    <atom:link href="https://september1549.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数码</title>
+      <link>https://september1549.github.io/tags/%E6%95%B0%E7%A0%81/</link>
+      <pubDate>Sat, 30 Mar 2024 21:35:48 +0800</pubDate>
+      <guid>https://september1549.github.io/tags/%E6%95%B0%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>经济</title>
+      <link>https://september1549.github.io/tags/%E7%BB%8F%E6%B5%8E/</link>
+      <pubDate>Sat, 03 Feb 2024 23:35:48 +0800</pubDate>
+      <guid>https://september1549.github.io/tags/%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

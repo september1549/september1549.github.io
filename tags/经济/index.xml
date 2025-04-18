@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>经济 on September</title>
+    <link>https://september1549.github.io/tags/%E7%BB%8F%E6%B5%8E/</link>
+    <description>Recent content in 经济 on September</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 03 Feb 2024 23:35:48 +0800</lastBuildDate>
+    <atom:link href="https://september1549.github.io/tags/%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雪球理财产品</title>
+      <link>https://september1549.github.io/posts/%E9%9B%AA%E7%90%83%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Sat, 03 Feb 2024 23:35:48 +0800</pubDate>
+      <guid>https://september1549.github.io/posts/%E9%9B%AA%E7%90%83%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81/</guid>
+      <description>&lt;h1 id=&#34;什么是雪球理财产品&#34;&gt;什么是雪球理财产品&lt;/h1&gt;
+&lt;p&gt;雪球理财产品，其正式名称为“自动敲入敲出式券商收益凭证”，是一类结构化的衍生金融产品，通常由券商发行。这些产品的收益结构和风险水平可通过各种场外期权（OTC Options）的组合来设计，它们提供了不同于传统直接投资工具的盈利模式和风险特性。&lt;/p&gt;
+&lt;h2 id=&#34;产品形式&#34;&gt;&lt;strong&gt;产品形式&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;雪球理财产品的运作基础是敲入和敲出机制。它是一个带有保障性特征的结构化产品，通过在特定价格水平设置&amp;quot;敲入&amp;quot;和&amp;quot;敲出&amp;quot;点来定义投资者的利益和责任。这些产品通常具有以下特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;投资标的&lt;/strong&gt;：可以是一个或一篮子个股、指数或其他金融资产。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;期限&lt;/strong&gt;：产品通常有固定到期日，期限多在一年或两年。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;敲出机制&lt;/strong&gt;：如果投资标的在产品期限内的任何时间点升至特定价格（即敲出水平，通常设置在本金以上的某一百分比，如103%至110%），投资者将获得预定收益并退出投资。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;敲入机制&lt;/strong&gt;：如果投资标的跌至另一个特定价格（即敲入水平，通常设置在本金以下的某一百分比，如70%至80%），投资者将以此价格持有到期或被动接受标的资产。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;盈利方式&#34;&gt;&lt;strong&gt;盈利方式&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;投资者的盈利途径与上述敲入敲出机制密切相关：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;敲出盈利&lt;/strong&gt;：若投资标的在期限内触及敲出价，则投资者获得约定的盈利，并可结束合约。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;区间盈利&lt;/strong&gt;：若投资标的价格始终处于敲入与敲出之间波动，投资者在期限满时获得收益。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;敲入风险/盈利&lt;/strong&gt;：若发生敲入事件，虽然有亏损风险，但如果后续投资标的价格上涨，投资者有可能在到期时获得盈利。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;风险点&#34;&gt;&lt;strong&gt;风险点&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;尽管产品设计时有保障性特征，但风险仍然存在，主要表现在：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;本金亏损风险&lt;/strong&gt;：如果敲入事件发生，且投资标的在到期时价格低于敲入价，投资者将面临本金亏损的风险。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;市场风险&lt;/strong&gt;：标的资产价格受到市场波动的影响，特别是若市场出现大幅连续下跌，本金亏损可能会放大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流动性风险&lt;/strong&gt;：这类产品通常在场外交易，不如公开市场产品那样容易买卖，可能存在变现难度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;复杂性风险&lt;/strong&gt;：结构化产品的条款和机制较为复杂，普通投资者可能难以完全理解其中的风险和盈利模式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;信用风险&lt;/strong&gt;：发行券商的信用状况可能影响投资者的收益。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;雪球敲入的影响&#34;&gt;雪球敲入的影响&lt;/h2&gt;
+&lt;p&gt;前一阵子由于A股大跌，许多雪球理财产品发生了敲入，为什么敲入会影响整个市场呢？&lt;/p&gt;
+&lt;p&gt;当发生大规模敲入时，可能对投资者、券商、以及更广泛的市场都会产生一定的影响：&lt;/p&gt;
+&lt;h3 id=&#34;对投资者的影响&#34;&gt;&lt;strong&gt;对投资者的影响&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;潜在的本金亏损&lt;/strong&gt;：敲入意味着投资者需要以较低的价格（通常低于本金）持有到期或被动接受标的资产。如果到期时标的资产价格低于敲入价格，投资者可能会面临损失部分或全部本金的风险。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持有非流动性资产的风险&lt;/strong&gt;：投资者可能不得不持有下跌的标的资产直至到期，如果市场流动性不足，无法在理想的价格出售这些资产，就会增加亏损的可能性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;降低信心和市场情绪&lt;/strong&gt;：大规模敲入事件可能会降低投资者对这类产品的信心，导致投资者在未来对类似产品趋之如骛的情绪受到抑制。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;对券商的影响&#34;&gt;&lt;strong&gt;对券商的影响&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;信誉风险&lt;/strong&gt;：若大量投资者经历亏损，该产品的发行券商可能面临信誉受损的风险，可能影响其未来销售产品的能力及整体业务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资本需求&lt;/strong&gt;：敲入事件可能导致券商需补仓或执行合约，这要求券商具备足够的资金或资产以满足合约条款，可能会加大券商的资本负担。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;法律和合规风险&lt;/strong&gt;：如果券商在产品的营销和销售过程中未能充分揭示风险，可能面临来自投资者的法律诉讼或监管机构的处罚。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;对市场的影响&#34;&gt;&lt;strong&gt;对市场的影响&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;市场价格压力&lt;/strong&gt;：若发生大规模敲入事件，可能导致市场上突然出现大量需要出售的同一类资产，进一步压低了这些资产的市场价格。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;投资者信心&lt;/strong&gt;：在零售和机构投资者间传递负面情绪，减少市场参与度和投资者信心，导致市场出现恐慌性抛售。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流动性干预&lt;/strong&gt;：在某些情况下，市场流动性干预可能是必要的，尤其是在面对大规模敲入引起的市场动荡时，市场管理者可能会采取措施以确保市场稳定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因此，雪球理财产品中的敲入事件不仅影响直接投资者，还可能对整个金融市场产生连锁反应。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
