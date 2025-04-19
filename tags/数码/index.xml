@@ -6,8 +6,28 @@
     <description>Recent content in 数码 on September</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 30 Mar 2024 21:35:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 20:35:48 +0800</lastBuildDate>
     <atom:link href="https://september1549.github.io/tags/%E6%95%B0%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M4 Pro本地大模型部署测试</title>
+      <link>https://september1549.github.io/posts/m4-pro%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 19 Apr 2025 20:35:48 +0800</pubDate>
+      <guid>https://september1549.github.io/posts/m4-pro%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</guid>
+      <description>&lt;p&gt;最近更新了电脑，原来是 M1 Pro 14 寸，16GB+1TB 的配置，新的电脑换成了 M4 Pro 16 寸，基本上算是 M4 Pro 的高配了，配置如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;芯片&lt;/strong&gt;：Apple M4 Pro&lt;br&gt;
+&lt;strong&gt;核总数&lt;/strong&gt;：14（10 性能核和 4 能效核）&lt;br&gt;
+&lt;strong&gt;内存&lt;/strong&gt;：48GB&lt;br&gt;
+&lt;strong&gt;芯片组型号&lt;/strong&gt;：Apple M4 Pro&lt;br&gt;
+&lt;strong&gt;类型&lt;/strong&gt;：GPU&lt;br&gt;
+&lt;strong&gt;总线&lt;/strong&gt;：内建&lt;br&gt;
+&lt;strong&gt;核总数&lt;/strong&gt;：20&lt;br&gt;
+&lt;strong&gt;供应商&lt;/strong&gt;：Apple (0x106b)&lt;br&gt;
+&lt;strong&gt;Metal 支持&lt;/strong&gt;：Metal 3&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;M1 Pro 其实还算比较够用，公司也有配的 M3 Pro 的电脑，之所以想换电脑是因为价格比较合适，也想在本地跑跑大模型，个人的内容还是需要和公司的分开。没买 M4 Max 是觉得价格有点贵，不过最近出了 M4 Max 版本的 Mac Studio，我笔记本太多，可能考虑把 M1 Pro 的笔记本卖掉再换个 Mac Studio 来用。&lt;/p&gt;
+&lt;p&gt;回到这篇文章的主题，Mac 本身其他的升级我并不关心，核心是想测试一下大模型部署。因为内存买到 48GB，所以目标也相对明确，就是要跑 32B 左右的大模型，14B 左右的模型我之前在 M1 Pro 上测试过，感觉效果一般，所以这次核心测试的模型就两个：QWQ 32B 和 Gemma 27B，这两个模型测试用的软件是 LM Studio，所有的模型都是 MLX 版本。&lt;/p&gt;
+&lt;p&gt;下面是数据表现：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>iPad Pro维修记</title>
       <link>https://september1549.github.io/posts/ipad%E7%BB%B4%E4%BF%AE%E8%AE%B0/</link>
