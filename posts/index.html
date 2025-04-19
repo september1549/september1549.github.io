@@ -156,20 +156,23 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>最近更新了电脑，原来是 M1 Pro 14 寸，16GB&#43;1TB 的配置，新的电脑换成了 M4 Pro 16 寸，基本上算是 M4 Pro 的高配了，配置如下：
+    <p>最近更新了电脑，原来是M1 Pro 14寸，16G&#43;1T的配置，新的电脑换成了M4 Pro 16寸，基本上算是M4 Pro的高配了，配置如下。
 芯片：Apple M4 Pro
-核总数：14（10 性能核和 4 能效核）
-内存：48GB
+核总数：14（10性能和4能效）
+内存：48 GB
 芯片组型号：Apple M4 Pro
 类型：GPU
 总线：内建
 核总数：20
 供应商：Apple (0x106b)
-Metal 支持：Metal 3
-M1 Pro 其实还算比较够用，公司也有配的 M3 Pro 的电脑，之所以想换电脑是因为价格比较合适，也想在本地跑跑大模型，个人的内容还是需要和公司的分开。没买 M4 Max 是觉得价格有点贵，不过最近出了 M4 Max 版本的 Mac Studio，我笔记本太多，可能考虑把 M1 Pro 的笔记本卖掉再换个 Mac Studio 来用。
-回到这篇文章的主题，Mac 本身其他的升级我并不关心，核心是想测试一下大模型部署。因为内存买到 48GB，所以目标也相对明确，就是要跑 32B 左右的大模型，14B 左右的模型我之前在 M1 Pro 上测试过，感觉效果一般，所以这次核心测试的模型就两个：QWQ 32B 和 Gemma 27B，这两个模型测试用的软件是 LM Studio，所有的模型都是 MLX 版本。
+Metal支持：Metal 3
+M1 Pro其实还算比较够用，公司也有配的M3 Pro的电脑，之所以想换电脑是因为价格比较合适，也想在本地跑跑大模型，个人的内容还是需要跟公司的分开。没买M4 Max是觉得价格有点贵，不过最近出了M4 Max版本的Mac Studio，我笔记本太多，可能考虑把M1 Pro的笔记本卖掉再换个Mac Studio来用。
+回到这篇文章的主题，Mac本身其他的升级我并不关心，核心是想测试一下大模型部署。因为内存买到48G，所以目标也相对明确，就是要跑32B左右的大模型，14B左右的模型我之前在M1 Pro上测试过，感觉效果一般，所以这次核心测试的模型就两个QWQ 32B和Gemma 27B这两个模型，测试用的软件LM Studio，所有的模型都是MLX版本。
 下面是数据表现：
-...</p>
+模型 量化方式 吞吐量（tok/sec） QWQ 32B 4Bit 12.71 tok/sec gemma-3-27b-it-qat 4Bit 14.04 tok/sec QWQ 32B 8Bit 6.14 tok/sec gemma-3-27b-it-qat 8Bit 8.23 tok/sec Gemma3虽然能运行，我遇到了一些bug，设置context太大比如128K会导致系统死机重启，Gemma3有时候会不停地吐相同的内容，期待社区的逐渐完善。所以现在比较可用的模型还是QWQ 32B，4Bit量化版的这个模型，低于10tok/sec就会感觉太慢了，其实12tok/sec跟用平台服务比如GPT、Gemini这些比还是太慢了，所以我个人感觉还是用平台服务好一点，因为我也基本不用API。
+看了一下网上其他人的测评，据说M4 Max的GPU QWQ这个模型可以达到20 tok/sec左右，或许是更可用的一个选择，但价格也不便宜，平时用的少的话还是用平台服务吧，效果好，选择多，也省得折腾。
+最后说一下M4 Pro这个电脑，抛开大模型这种需求，其他的开发、剪辑的需求对我来说已经绰绰有余，甚至感觉之前的M1 Pro都够我用，钱又浪费了。
+</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-19 20:35:48 +0800 CST'>April 19, 2025</span></footer>
   <a class="entry-link" aria-label="post link to M4 Pro本地大模型部署测试" href="https://september1549.github.io/posts/m4-pro%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/"></a>
